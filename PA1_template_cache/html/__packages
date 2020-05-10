@@ -1,4 +1,9 @@
 base
-plyr
+methods
+datasets
+utils
+grDevices
+graphics
+stats
 dplyr
 ggplot2
